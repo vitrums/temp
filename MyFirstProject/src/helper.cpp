@@ -2,5 +2,5 @@
 
 void printSomething() {
 	std::cout << "something";
-	std::cout << "helper1.hpp?";
+	// Some nice comment
 }
