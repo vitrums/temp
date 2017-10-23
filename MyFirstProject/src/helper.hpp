@@ -1,2 +1,3 @@
 void printSomething();
 #
+// amazing comment
