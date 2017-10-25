@@ -6,6 +6,7 @@ void printSomething() {
 #define x 5
 	//lol
 	// ssssfffff
+	// wtf?
 	// some changes rly
 	
 	// oh gosh yey!
